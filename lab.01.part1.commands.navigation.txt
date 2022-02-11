@@ -15,27 +15,10 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-
-Applications
-Creative Cloud Files
-Desktop
-Documents
-Downloads
-Library
-Movies
-Music
-OM
-Pictures
-Public
-Spitfire
-get-pip.py
-github
-lgBin
-louis.goldford@columbia.edu Creative Cloud Files
-myClasses-Fall2020
-
-
-
+Applications		Downloads		Pictures
+Creative Cloud Files	Library			Public
+Desktop			Movies
+Documents		Music
 
 ==========
 2.  Type:
@@ -44,13 +27,7 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-total 71632
-drwxr-xr-x@  10 louisgoldford  staff       320 Jun 15  2020 2019.taxes
-drwxrwxr-x@   5 louisgoldford  staff       160 Aug 30  2020 Adobe
-drwxr-xr-x    4 louisgoldford  staff       128 Jun  6  2020 CU
-drwxr-xr-x@   8 louisgoldford  staff       256 May 24  2020 Chroma
-
+drwxr-xr-x@ 5 Nadiyyah  staff  160 Feb 11 15:03 GitHub
 
 
 
@@ -61,12 +38,7 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-.
-..
-
-
-
+.		..		.DS_Store	.localized	GitHub
 
 ==========
 4.  Type:
@@ -78,25 +50,17 @@ Copy and paste the output below.
 
 ls: doesnotexist: No such file or directory
 
-
-
-
 ==========
 5.  What key do I press to go to the previous command?
 ----------
 
 up arrow
 
-
-
-
 ==========
 6.  Name two flags/options that we used in this exercise.
 ----------
-
 -l
 -a
-
 
 ==========
 7.  What was the main command that we used throughout this exercise?
@@ -104,17 +68,11 @@ up arrow
 
 ls
 
-
-
-
 ==========
 8.  What's one an argument that we've so far passed to a command?
 ----------
 
-
 Documents
-
-
 
 ==========
 9.  Type:
